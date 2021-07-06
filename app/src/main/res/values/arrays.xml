@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="SAMPLE_TYPE">
+        <item>工业废水</item>
+        <item>生活废水</item>
+        <item>其它</item>
+    </string-array>
+
+    <string-array name="yiju">
+        <item>HJ 493–2009 水质采样样品的保存和管理技术规定</item>
+        <item>HJ 494–2009 水质采样技术指导</item>
+        <item>HJ/T 91–2002 地表水和污水监测技术规范</item>
+    </string-array>
+
+    <string-array name="xinghao">
+        <item>Multi3420</item>
+        <item>HQ30D</item>
+    </string-array>
+
+    <string-array name="cedingyiju">
+        <item>水温：GB/T 13195–1991 水质 水温的测定 温度计或颠倒温度计测定法</item>
+        <item>pH：GB 6920–1986 水质 pH值的测定玻璃电极法</item>
+        <item>pH：便携式pH计法《水和废水监测分析方法》（第四版增补版)国家环保总局(2002年)</item>
+    </string-array>
+
+    <string-array name="liuxiang">
+        <item>市政管道</item>
+        <item>河流</item>
+        <item>收集不外排</item>
+        <item>其它</item>
+    </string-array>
+
+</resources>
